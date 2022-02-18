@@ -2,7 +2,7 @@
 
 ## Hello Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Ammar Ali. I am a full-stack developer based in Toronto, Ontario.
-The reason I love coding is because I have a passion for problem solving. I like that I can think code and make it a reality. In my free time I like exploring, going to parks and museams.
+The reason I love coding is because I have a passion for problem solving. I like the fact that I can think code and make it a reality. In my free time I like exploring, going to parks and museams.
 
 Having graduated from Lighthouse Labs Bootcamp I am currently looking to hone my skills, as well as gain experiance within the field.
 
