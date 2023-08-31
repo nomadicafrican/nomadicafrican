@@ -1,11 +1,13 @@
 ![](https://github.com/nomadicafrican/nomadicafrican/blob/master/images/istockphoto-1040643480-170667a.jpeg?raw=true)
 
 ## Hello Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hello, I'm Abdulhakim Ali, an IT specialist and cybersecurity enthusiast based in Toronto, Ontario. With a strong foundation in cybersecurity and network security, my journey has been guided by a passion for enhancing digital safety and resilience.
+Hello, I'm Abdulhakim Ali, an IT specialist and cybersecurity enthusiast based in Toronto, Ontario. With a strong foundation in information security, my journey has been guided by a passion for enhancing digital safety and resilience.
 
 While my projects span various aspects of technology, they all reflect my commitment to cybersecurity and network best practices. I've had the opportunity to work on projects like Crypto Vault, Scheduler, PasswordKeepr, and Jungle-Rails, each showcasing my skills in coding and development, as well as my dedication to creating secure digital experiences.
 
 As you explore my portfolio, you'll notice my keen eye for problem-solving and attention to security details. Whether it's developing applications or crafting security solutions, I approach every challenge with the goal of safeguarding digital landscapes.
+
+Email: hakimkusow@gmail.com
 <br/>
 
 # Languages, Frameworks, Libraries & Software:
