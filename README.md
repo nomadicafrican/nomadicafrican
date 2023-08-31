@@ -43,13 +43,13 @@ Email: hakimkusow@gmail.com
 
 ## Projects
 
-[<h2>Crypto Vault</h2>](https://github.com/nomadicafrican/final_project)
+[<h2>CryptoHub</h2>](https://github.com/nomadicafrican/final_project)
 An App where users can post blogs, read articles and research about crypto by looking at the market
 
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
     
    
-[<h2>Scheduler</h2>](https://github.com/nomadicafrican/scheduler)
+[<h2>TimeSync</h2>](https://github.com/nomadicafrican/scheduler)
 
 Interview Scheduler is a single-page application that allows a student to choose a day, a time, and an interviewer to book in appointment with a mentor. Appointments can be easily edited and updated, or cancelled through the app by clicking the icons in the bottom left hand corner of a booked interview timeslot.
 
@@ -57,7 +57,7 @@ Interview Scheduler is a single-page application that allows a student to choose
 
 <br/>
 
-[<h2>PasswordKeepr</h2>](https://github.com/nomadicafrican/PasswordKeeper)
+[<h2>SecurePass Vault</h2>](https://github.com/nomadicafrican/PasswordKeeper)
 
 PasswordKeeper is a storage for all passwords. An authorized user can access all the passwords created by other users and a user can also generate a new password for a specific account (just like LastPass).
 
@@ -65,7 +65,7 @@ PasswordKeeper is a storage for all passwords. An authorized user can access all
 
 <br/>
 
-[<h2>Jungle-Rails</h2>](https://github.com/nomadicafrican/jungle-rails)
+[<h2>WildCart</h2>](https://github.com/nomadicafrican/jungle-rails)
 
 An E-commerce app built using rails. Includes: users, products, carts, orders, categories, multiple images, custom pages, Stripe payment
 
