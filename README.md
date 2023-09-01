@@ -49,7 +49,7 @@ An App where users can post blogs, read articles and research about crypto by lo
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
     
    
-[<h2>TimeSync</h2>](https://github.com/nomadicafrican/scheduler)
+[<h2>Time Sync</h2>](https://github.com/nomadicafrican/scheduler)
 
 Interview Scheduler is a single-page application that allows a student to choose a day, a time, and an interviewer to book in appointment with a mentor. Appointments can be easily edited and updated, or cancelled through the app by clicking the icons in the bottom left hand corner of a booked interview timeslot.
 
