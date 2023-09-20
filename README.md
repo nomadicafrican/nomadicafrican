@@ -65,7 +65,7 @@ PasswordKeeper is a storage for all passwords. An authorized user can access all
 
 <br/>
 
-[<h2>WildCart</h2>](https://github.com/nomadicafrican/jungle-rails)
+[<h2>WildCartJungle</h2>](https://github.com/nomadicafrican/jungle-rails)
 
 An E-commerce app built using rails. Includes: users, products, carts, orders, categories, multiple images, custom pages, Stripe payment.
 
