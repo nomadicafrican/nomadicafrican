@@ -3,7 +3,7 @@
 ## Hello Everyone!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hello, I'm Abdulhakim Ali an IT graduate and cybersecurity enthusiast based in Toronto, Ontario. With a strong foundation in information security, my journey has been guided by a passion for enhancing digital safety and resilience.
 
-While my projects span various aspects of technology, they all reflect my commitment to cybersecurity and network best practices. I've had the opportunity to work on projects like Crypto Vault, Scheduler, PasswordKeepr, and Jungle-Rails, each showcasing my skills in coding and development, as well as my dedication to creating secure digital experiences.
+While my projects span various aspects of technology, they all reflect my commitment to information security and network best practices. I've had the opportunity to work on projects like Crypto Vault, Scheduler, PasswordKeepr, and Jungle-Rails, showcasing my coding and development skills and my dedication to creating secure digital experiences.
 
 As you explore my portfolio, you'll notice my keen eye for problem-solving and attention to security details. Whether it's developing applications or crafting security solutions, I approach every challenge with the goal of safeguarding digital landscapes.
 
@@ -44,14 +44,14 @@ Email: hakimkusow@gmail.com
 ## Projects
 
 [<h2>CryptoHub</h2>](https://github.com/nomadicafrican/final_project)
-An App where users can post blogs, read articles and research about crypto by looking at the market
+An App where users can post blogs, read articles, and research crypto by looking at the market.
 
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
     
    
 [<h2>TimeSync</h2>](https://github.com/nomadicafrican/scheduler)
 
-Interview Scheduler is a single-page application that allows a student to choose a day, a time, and an interviewer to book in appointment with a mentor. Appointments can be easily edited and updated, or cancelled through the app by clicking the icons in the bottom left hand corner of a booked interview timeslot.
+Interview Scheduler is a single-page application that allows a student to choose a day, a time, and an interviewer to book an appointment with a mentor. Appointments can be easily edited, updated, or canceled through the app by clicking the icons in the bottom left-hand corner of a booked interview timeslot.
 
 <b>Technology used:</b> JS, React, HTML, SCSS, Axios, Storybook, Jest
 
@@ -67,7 +67,7 @@ PasswordKeeper is a storage for all passwords. An authorized user can access all
 
 [<h2>WildCart</h2>](https://github.com/nomadicafrican/jungle-rails)
 
-An E-commerce app built using rails. Includes: users, products, carts, orders, categories, multiple images, custom pages, Stripe payment
+An E-commerce app built using rails. Includes: users, products, carts, orders, categories, multiple images, custom pages, Stripe payment.
 
 <b>Technology used:</b> Rails, PostgreSQL, Stripe
 
