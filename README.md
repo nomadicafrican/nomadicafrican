@@ -3,7 +3,7 @@
 ## Hello Everyone!  <a href="https://emoji.gg/emoji/6307_waving_lol"><img src="https://cdn3.emoji.gg/emojis/6307_waving_lol.gif" width="34px" height="34px" alt="waving_lol"></a>
 Hello, I'm Abdulhakim Ali, an IT graduate, full-stack developer, and cybersecurity enthusiast based in Toronto, Ontario. With a strong foundation in information security, my journey has been guided by a passion for enhancing digital safety, resilience, and developing reliable web solutions.
 
-While my projects span various aspects of technology, they all reflect my commitment to information security and network best practices. I've had the opportunity to work on projects like CryptoHub, TimeSync, SecurePass Vault, and WildCart, showcasing my coding and development skills and my dedication to creating secure digital experiences.
+While my projects span various aspects of technology, they all reflect my commitment to information security best practices. I've had the opportunity to work on projects like CryptoHub, TimeSync, SecurePass Vault, and WildCart, showcasing my coding and development skills and my dedication to creating secure digital experiences.
 
 As you explore my portfolio, you'll notice my keen eye for problem-solving and attention to security details. Whether it's developing applications or crafting security solutions, I approach every challenge with the goal of safeguarding digital landscapes.
 
