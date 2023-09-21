@@ -44,14 +44,14 @@ Email: hakimkusow@gmail.com
 ## Projects
 
 [<h2>CryptoHub</h2>](https://github.com/nomadicafrican/final_project)
-An App where users can post blogs, read articles, and research crypto by looking at the market.
+CryptoHub is an all-encompassing application meticulously tailored to meet the diverse needs of cryptocurrency enthusiasts and investors. This versatile platform empowers users with an extensive suite of features, providing a holistic and unified destination for all their crypto-related endeavors.
 
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
     
    
 [<h2>TimeSync</h2>](https://github.com/nomadicafrican/scheduler)
 
-Interview Scheduler is a single-page application that allows a student to choose a day, a time, and an interviewer to book an appointment with a mentor. Appointments can be easily edited, updated, or canceled through the app by clicking the icons in the bottom left-hand corner of a booked interview timeslot.
+TimeSync, a sleek single-page application, empowers students to effortlessly book mentorship appointments. With just a few clicks, users can select their preferred day, time, and mentor, simplifying the entire booking process. What sets it apart is the ease with which appointments can be managed – a quick tap on the icons in the bottom left-hand corner of a booked interview timeslot allows for hassle-free editing, updates, or cancellations.
 
 <b>Technology used:</b> JS, React, HTML, SCSS, Axios, Storybook, Jest
 
@@ -59,15 +59,15 @@ Interview Scheduler is a single-page application that allows a student to choose
 
 [<h2>SecurePass Vault</h2>](https://github.com/nomadicafrican/PasswordKeeper)
 
-PasswordKeeper is a storage for all passwords. An authorized user can access all the passwords created by other users and a user can also generate a new password for a specific account (just like LastPass).
+SecurePass Vault is your all-in-one password management solution. With PasswordKeeper, authorized users can access a centralized and highly secure storage system for passwords created by other users. Additionally, users have the capability to generate new passwords for specific accounts, offering the same functionality as trusted services like LastPass.
 
 <b>Technology used:</b> JS, HTML, CSS, Bootstrap, SQL, Express, cookie-session, bcrypt
 
 <br/>
 
-[<h2>Jungle-Rails</h2>](https://github.com/nomadicafrican/jungle-rails)
+[<h2>WildCart</h2>](https://github.com/nomadicafrican/jungle-rails)
 
-An E-commerce app built using rails. Includes: users, products, carts, orders, categories, multiple images, custom pages, Stripe payment.
+WildCart is an E-commerce application, meticulously crafted using the Rails framework. This platform offers an extensive array of features and functionalities designed to provide users with a seamless and satisfying online shopping experience.
 
 <b>Technology used:</b> Rails, PostgreSQL, Stripe
 
