@@ -1,7 +1,7 @@
 ![](https://github.com/nomadicafrican/nomadicafrican/blob/master/images/istockphoto-1040643480-170667a.jpeg?raw=true)
 
 ## Hello Everyone!  <a href="https://emoji.gg/emoji/6307_waving_lol"><img src="https://cdn3.emoji.gg/emojis/6307_waving_lol.gif" width="34px" height="34px" alt="waving_lol"></a>
-Hello, I'm Abdulhakim Ali, an IT graduate, full-stack developer, and cybersecurity enthusiast based in Toronto, Ontario. With a strong foundation in information security, my journey has been guided by a passion for enhancing digital safety, resilience, and developing reliable web solutions.
+Hello, I'm Abdulhakim Ali, an IT specialist, full-stack developer, and cybersecurity enthusiast based in Toronto, Ontario. With a strong foundation in information security, my journey has been guided by a passion for enhancing digital safety, resilience, and developing reliable web solutions.
 
 While my projects span various aspects of technology, they all reflect my commitment to security and web application best practices. I've had the opportunity to develop projects like CryptoHub, TimeSync, SecurePass Vault, and WildCart, showcasing my coding and development skills and my dedication to creating secure digital experiences.
 
