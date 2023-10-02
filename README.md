@@ -43,7 +43,7 @@ Email: hakimkusow@gmail.com
 
 ## Projects
 
-[CryptoHub](https://github.com/nomadicafrican/CryptoHub)
+[<h2>CryptoHub<h2>](https://github.com/nomadicafrican/CryptoHub)
 CryptoHub is an all-encompassing application meticulously tailored to meet the diverse needs of cryptocurrency enthusiasts and investors. This versatile platform empowers users with an extensive suite of features, providing a holistic and unified destination for all their crypto-related endeavors.
 
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
