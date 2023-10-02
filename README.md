@@ -48,13 +48,14 @@ CryptoHub is an all-encompassing application meticulously tailored to meet the d
 
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
     
-   
+---   
 ### [TimeSync](https://github.com/nomadicafrican/TimeSync)
 
 TimeSync, a sleek single-page application, empowers students to effortlessly book mentorship appointments. With just a few clicks, users can select their preferred day, time, and mentor, simplifying the entire booking process. What sets it apart is the ease with which appointments can be managed – a quick tap on the icons in the bottom left-hand corner of a booked interview timeslot allows for hassle-free editing, updates, or cancellations.
 
 <b>Technology used:</b> JS, React, HTML, SCSS, Axios, Storybook, Jest
 
+---
 <br/>
 
 ### [SecurePass Vault](https://github.com/nomadicafrican/SecurePass-Vault)
@@ -63,6 +64,7 @@ SecurePass Vault is your all-in-one password management solution. With PasswordK
 
 <b>Technology used:</b> JS, HTML, CSS, Bootstrap, SQL, Express, cookie-session, bcrypt
 
+---
 <br/>
 
 ### [WildCart](https://github.com/nomadicafrican/WildCart)
@@ -71,6 +73,7 @@ WildCart is an E-commerce application, meticulously crafted using the Rails fram
 
 <b>Technology used:</b> Rails, PostgreSQL, Stripe
 
+---
 <br/>
 
 
