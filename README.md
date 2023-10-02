@@ -43,13 +43,13 @@ Email: hakimkusow@gmail.com
 
 ## Projects
 
-[CryptoHub](https://github.com/nomadicafrican/CryptoHub)
+### [CryptoHub](https://github.com/nomadicafrican/CryptoHub)
 CryptoHub is an all-encompassing application meticulously tailored to meet the diverse needs of cryptocurrency enthusiasts and investors. This versatile platform empowers users with an extensive suite of features, providing a holistic and unified destination for all their crypto-related endeavors.
 
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
     
    
-[<h2>TimeSync</h2>](https://github.com/nomadicafrican/scheduler)
+### [TimeSync](https://github.com/nomadicafrican/TimeSync)
 
 TimeSync, a sleek single-page application, empowers students to effortlessly book mentorship appointments. With just a few clicks, users can select their preferred day, time, and mentor, simplifying the entire booking process. What sets it apart is the ease with which appointments can be managed – a quick tap on the icons in the bottom left-hand corner of a booked interview timeslot allows for hassle-free editing, updates, or cancellations.
 
@@ -57,7 +57,7 @@ TimeSync, a sleek single-page application, empowers students to effortlessly boo
 
 <br/>
 
-[<h2>SecurePass Vault</h2>](https://github.com/nomadicafrican/PasswordKeeper)
+### [SecurePass Vault](https://github.com/nomadicafrican/SecurePass-Vault)
 
 SecurePass Vault is your all-in-one password management solution. With PasswordKeeper, authorized users can access a centralized and highly secure storage system for passwords created by other users. Additionally, users have the capability to generate new passwords for specific accounts, offering the same functionality as trusted services like LastPass.
 
@@ -65,7 +65,7 @@ SecurePass Vault is your all-in-one password management solution. With PasswordK
 
 <br/>
 
-[<h2>WildCart</h2>](https://github.com/nomadicafrican/jungle-rails)
+### [WildCart](https://github.com/nomadicafrican/WildCart)
 
 WildCart is an E-commerce application, meticulously crafted using the Rails framework. This platform offers an extensive array of features and functionalities designed to provide users with a seamless and satisfying online shopping experience.
 
